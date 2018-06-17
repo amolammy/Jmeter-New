@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1528821109039,4910,open url,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,2632,3632,1,1,0,58,0
+1528821114009,14285,login,200,"Number of samples in transaction : 23, number of failing samples : 0",Thread Group 1-1,,true,,151454,13414,1,1,0,37,0
+1528821128332,3767,serach incident,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,6070,3604,1,1,0,23,0
+1528821132124,6345,click on detail,200,"Number of samples in transaction : 11, number of failing samples : 0",Thread Group 1-1,,true,,36042,6137,1,1,0,14,0
+1528821138483,1742,change the status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,3022,1512,1,1,0,3,0
+1528821140229,1344,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,2458,2207,1,1,0,6,0

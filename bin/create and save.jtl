@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1528712328043,11043,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-1,,true,,1605902,5895,2,2,0,85,0
+1528712328519,11823,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-2,,true,,1605902,5895,2,2,0,14,0
+1528712339173,15528,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-1,,true,,158533,16947,2,2,0,62,0
+1528712340356,15304,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-2,,true,,155132,16947,2,2,0,26,0
+1528712354766,1412,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-1,,true,,4282,1718,2,2,0,7,0
+1528712355689,1369,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-2,,true,,4281,1718,2,2,0,4,0
+1528712356186,7157,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-1,,true,,34912,10324,2,2,0,21,0
+1528712357062,7144,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-2,,true,,34913,10324,2,2,0,18,0
+1528712363364,4408,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-1,,true,,6652,7453,2,2,0,5,0
+1528712364225,4372,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-2,,true,,6652,7453,1,1,0,6,0

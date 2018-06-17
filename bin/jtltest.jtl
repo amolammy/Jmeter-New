@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1528109966787,4283,url,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-1,,true,,160307,3660,1,1,0,92,0
+1528109971177,11038,login,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-1,,true,,142718,15251,1,1,0,40,0
+1528109982257,1552,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,2458,2167,1,1,0,5,0

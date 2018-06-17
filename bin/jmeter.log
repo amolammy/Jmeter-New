@@ -1,0 +1,209 @@
+2018-06-16 22:22:23,170 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2018-06-16 22:22:23,186 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-06-16 22:22:23,186 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: Version 3.3 r1808647
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: java.version=9.0.1
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: os.name=Windows 7
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: os.arch=amd64
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: os.version=6.1
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: file.encoding=Cp1252
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: Max memory     =2061500416
+2018-06-16 22:22:23,202 INFO o.a.j.JMeter: Available Processors =4
+2018-06-16 22:22:23,217 INFO o.a.j.JMeter: Default Locale=English (United States)
+2018-06-16 22:22:23,217 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2018-06-16 22:22:23,217 INFO o.a.j.JMeter: JMeterHome=C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3
+2018-06-16 22:22:23,217 INFO o.a.j.JMeter: user.dir  =C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin
+2018-06-16 22:22:23,217 INFO o.a.j.JMeter: PWD       =C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin
+2018-06-16 22:22:23,217 INFO o.a.j.JMeter: IP: 10.186.180.140 Name: NAV-00800 FullName: NAV-00800.corp.twcable.com
+2018-06-16 22:22:23,514 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2018-06-16 22:22:23,514 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-06-16 22:22:23,935 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-06-16 22:22:23,935 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-06-16 22:22:24,762 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2018-06-16 22:22:25,184 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2018-06-16 22:22:25,230 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2018-06-16 22:22:25,262 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-16 22:22:25,262 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-16 22:22:25,262 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-16 22:22:25,262 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-16 22:22:25,262 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-06-16 22:22:25,262 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-06-16 22:22:25,780 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-06-16 22:22:25,780 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\proxyserver.jks
+2018-06-16 22:22:25,967 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2018-06-16 22:22:26,014 INFO o.a.j.s.FileServer: Default base='C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin'
+2018-06-16 22:22:26,123 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2018-06-16 22:22:26,123 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2018-06-16 22:22:26,435 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2018-06-16 22:22:26,466 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2018-06-16 22:22:26,622 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-06-16 22:22:26,622 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-06-16 22:22:26,622 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-06-16 22:22:26,622 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-06-16 22:22:33,916 INFO o.a.j.g.a.Load: Loading file: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\create CR.jmx
+2018-06-16 22:22:33,916 INFO o.a.j.s.FileServer: Set new base='C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin'
+2018-06-16 22:22:34,118 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-06-16 22:22:34,134 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2018-06-16 22:22:34,134 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-06-16 22:22:34,134 INFO o.a.j.s.SaveService: Loading file: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\create CR.jmx
+2018-06-16 22:22:34,274 INFO o.a.j.s.FileServer: Set new base='C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin'
+2018-06-16 22:23:00,357 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2018-06-16 22:23:00,357 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2018-06-16 22:25:52,853 INFO o.a.j.s.FileServer: Set new base='C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin'
+2018-06-16 22:25:58,490 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2018-06-16 22:25:58,490 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2018-06-16 22:25:58,490 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2018-06-16 22:25:58,490 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2018-06-16 22:26:09,092 INFO o.a.j.p.h.p.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host
+2018-06-16 22:26:10,075 INFO o.a.j.p.h.p.Proxy: [51120] KeyStore for SSL loaded OK and put host 'snippets.cdn.mozilla.net' in map with key (snippets.cdn.mozilla.net)
+2018-06-16 22:26:10,231 WARN o.a.j.p.h.p.Proxy: [51120]  Problem with SSL certificate for url  for 'snippets.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2018-06-16 22:26:10,231 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-06-16 22:26:10,247 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = NAV-00800
+2018-06-16 22:26:10,263 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2018-06-16 22:26:12,266 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2018-06-16 22:26:20,249 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2018-06-16 22:26:20,249 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2018-06-16 22:26:20,249 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2018-06-16 22:26:20,249 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2018-06-16 22:26:24,305 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2018-06-16 22:26:27,051 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2018-06-16 22:26:27,051 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2018-06-16 22018-06-16 22:40:34,353 INFO o.a.j.g.a.Load: Merging file: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\update Problem Investigation-1.jmx
+2018-06-16 22:40:34,353 INFO o.a.j.s.SaveService: Loading file: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\update Problem Investigation-1.jmx
+2018-06-16 22:41:24,310 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-06-16 22:41:24,310 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-06-16 22:41:24,342 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-06-16 22:41:24,498 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2018-06-16 22:41:24,498 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2018-06-16 22:41:24,498 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 22:41:24,498 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-06-16 22:41:24,498 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-06-16 22:41:24,498 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-06-16 22:41:24,498 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2018-06-16 22:41:24,498 INFO o.a.j.s.FileServer: Stored: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 22:42:55,838 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2018-06-16 22:42:55,838 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2018-06-16 22:42:55,838 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-06-16 22:42:55,838 INFO o.a.j.s.FileServer: Close: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 22:42:55,854 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2018-06-16 22:44:00,944 INFO o.a.j.s.FileServer: Set new base='C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\smart it scripts\create all'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2018-06-16 22:44:42,432 INFO o.a.j.g.a.Load: Merging file: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\smart it scripts\create all\create_Problem_investigation+update status.jmx
+2018-06-16 22:44:42,479 INFO o.a.j.s.SaveService: Loading file: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\smart it scripts\create all\create_Problem_investigation+update status.jmx
+2018-06-16 22:52:05,099 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-06-16 22:52:05,099 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-06-16 22:52:05,115 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Create known error ticket>>search and update the status to cancel.
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Create known error ticket>>search and update the status to cancel..
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 22:52:05,304 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-06-16 22:52:05,304 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Create>>Save and change the inc status to cancel
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Create>>Save and change the inc status to cancel.
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 22:52:05,304 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-06-16 22:52:05,304 INFO o.a.j.t.JMeterThread: Thread started: Create known error ticket>>search and update the status to cancel. 1-1
+2018-06-16 22:52:05,304 INFO o.a.j.s.FileServer: Stored: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 22:52:05,304 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : Create>>Save and change the CR status to cancel
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Create>>Save and change the CR status to cancel.
+2018-06-16 22:52:05,304 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 22:52:05,304 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=2 ramp-up=4 perThread=2000.0 delayedStart=false
+2018-06-16 22:52:05,307 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the inc status to cancel 2-1
+2018-06-16 22:52:05,312 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the CR status to cancel 3-1
+2018-06-16 22:52:05,312 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2018-06-16 22:52:05,312 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 4 : Create>>Save and change the Problem investigation status to cancel
+2018-06-16 22:52:05,312 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Create>>Save and change the Problem investigation status to cancel.
+2018-06-16 22:52:05,312 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 22:52:05,314 INFO o.a.j.t.ThreadGroup: Starting thread group... number=4 threads=2 ramp-up=4 perThread=2000.0 delayedStart=false
+2018-06-16 22:52:05,319 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the Problem investigation status to cancel 4-1
+2018-06-16 22:52:05,319 INFO o.a.j.t.ThreadGroup: Started thread group number 4
+2018-06-16 22:52:05,319 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-06-16 22:52:07,317 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the CR status to cancel 3-2
+2018-06-16 22:52:07,335 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the Problem investigation status to cancel 4-2
+2018-06-16 22:52:38,903 INFO o.a.j.u.BeanShellTestElement: INC000000003417
+2018-06-16 22:53:31,419 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the inc status to cancel 2-1
+2018-06-16 22:53:31,419 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the inc status to cancel 2-1
+2018-06-16 22:53:33,666 INFO o.a.j.t.JMeterThread: Thread is done: Create known error ticket>>search and update the status to cancel. 1-1
+2018-06-16 22:53:33,666 INFO o.a.j.t.JMeterThread: Thread finished: Create known error ticket>>search and update the status to cancel. 1-1
+2018-06-16 22:53:54,746 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the Problem investigation status to cancel 4-1
+2018-06-16 22:53:54,746 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the Problem investigation status to cancel 4-1
+2018-06-16 22:53:56,088 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the CR status to cancel 3-2
+2018-06-16 22:53:56,088 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the CR status to cancel 3-2
+2018-06-16 23:00:04,287 INFO o.a.j.g.a.Start: Stopping test
+2018-06-16 23:00:04,318 INFO o.a.j.t.JMeterThread: Stopping: Create>>Save and change the CR status to cancel 3-1
+2018-06-16 23:00:04,318 WARN o.a.j.t.JMeterThread: Interrupting: Create>>Save and change the CR status to cancel 3-1 sampler: 58 /ux/rest/v2/metadata
+2018-06-16 23:00:04,318 INFO o.a.j.t.JMeterThread: Stopping: Create>>Save and change the Problem investigation status to cancel 4-2
+2018-06-16 23:00:04,318 WARN o.a.j.t.JMeterThread: Interrupting: Create>>Save and change the Problem investigation status to cancel 4-2 sampler: 104 /ux/rest/person/supportgrouppersons/SGP000000000161
+2018-06-16 23:00:04,318 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the CR status to cancel 3-1
+2018-06-16 23:00:04,334 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the Problem investigation status to cancel 4-2
+2018-06-16 23:00:04,334 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-06-16 23:00:04,334 INFO o.a.j.s.FileServer: Close: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 23:00:04,334 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2018-06-16 23:00:41,602 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-06-16 23:00:41,618 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-06-16 23:00:41,633 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-06-16 23:00:41,665 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Create>>Save and change the Problem investigation status to cancel
+2018-06-16 23:00:41,665 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Create>>Save and change the Problem investigation status to cancel.
+2018-06-16 23:00:41,665 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 23:00:41,665 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=4 perThread=2000.0 delayedStart=false
+2018-06-16 23:00:41,680 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the Problem investigation status to cancel 1-1
+2018-06-16 23:00:41,680 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-06-16 23:00:41,680 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-06-16 23:00:41,680 INFO o.a.j.s.FileServer: Stored: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 23:00:43,696 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the Problem investigation status to cancel 1-2
+2018-06-16 23:02:16,435 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the Problem investigation status to cancel 1-1
+2018-06-16 23:02:16,435 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the Problem investigation status to cancel 1-1
+2018-06-16 23:02:25,568 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the Problem investigation status to cancel 1-2
+2018-06-16 23:02:25,568 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the Problem investigation status to cancel 1-2
+2018-06-16 23:02:25,568 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-06-16 23:02:25,584 INFO o.a.j.s.FileServer: Close: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 23:02:25,584 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2018-06-16 23:05:17,242 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-06-16 23:05:17,242 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-06-16 23:05:17,351 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-06-16 23:05:17,538 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Create known error ticket>>search and update the status to cancel.
+2018-06-16 23:05:17,538 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Create known error ticket>>search and update the status to cancel..
+2018-06-16 23:05:17,538 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 23:05:17,538 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-06-16 23:05:17,554 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-06-16 23:05:17,554 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Create>>Save and change the inc status to cancel
+2018-06-16 23:05:17,554 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Create>>Save and change the inc status to cancel.
+2018-06-16 23:05:17,554 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 23:05:17,554 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-06-16 23:05:17,554 INFO o.a.j.t.JMeterThread: Thread started: Create known error ticket>>search and update the status to cancel. 1-1
+2018-06-16 23:05:17,554 INFO o.a.j.s.FileServer: Stored: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 23:05:17,554 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2018-06-16 23:05:17,554 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : Create>>Save and change the CR status to cancel
+2018-06-16 23:05:17,554 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Create>>Save and change the CR status to cancel.
+2018-06-16 23:05:17,554 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 23:05:17,554 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=2 ramp-up=4 perThread=2000.0 delayedStart=false
+2018-06-16 23:05:17,554 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the inc status to cancel 2-1
+2018-06-16 23:05:17,554 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2018-06-16 23:05:17,554 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the CR status to cancel 3-1
+2018-06-16 23:05:17,554 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 4 : Create>>Save and change the Problem investigation status to cancel
+2018-06-16 23:05:17,569 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Create>>Save and change the Problem investigation status to cancel.
+2018-06-16 23:05:17,569 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-06-16 23:05:17,569 INFO o.a.j.t.ThreadGroup: Starting thread group... number=4 threads=2 ramp-up=4 perThread=2000.0 delayedStart=false
+2018-06-16 23:05:17,569 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the Problem investigation status to cancel 4-1
+2018-06-16 23:05:17,569 INFO o.a.j.t.ThreadGroup: Started thread group number 4
+2018-06-16 23:05:17,569 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-06-16 23:05:19,569 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the CR status to cancel 3-2
+2018-06-16 23:05:19,574 INFO o.a.j.t.JMeterThread: Thread started: Create>>Save and change the Problem investigation status to cancel 4-2
+2018-06-16 23:05:40,972 INFO o.a.j.u.BeanShellTestElement: INC000000003418
+2018-06-16 23:06:24,931 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the inc status to cancel 2-1
+2018-06-16 23:06:24,931 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the inc status to cancel 2-1
+2018-06-16 23:06:38,817 INFO o.a.j.t.JMeterThread: Thread is done: Create known error ticket>>search and update the status to cancel. 1-1
+2018-06-16 23:06:38,817 INFO o.a.j.t.JMeterThread: Thread finished: Create known error ticket>>search and update the status to cancel. 1-1
+2018-06-16 23:06:54,820 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the CR status to cancel 3-1
+2018-06-16 23:06:54,820 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the CR status to cancel 3-1
+2018-06-16 23:06:55,210 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the CR status to cancel 3-2
+2018-06-16 23:06:55,210 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the CR status to cancel 3-2
+2018-06-16 23:07:19,631 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the Problem investigation status to cancel 4-2
+2018-06-16 23:07:19,631 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the Problem investigation status to cancel 4-2
+2018-06-16 23:07:19,678 INFO o.a.j.t.JMeterThread: Thread is done: Create>>Save and change the Problem investigation status to cancel 4-1
+2018-06-16 23:07:19,678 INFO o.a.j.t.JMeterThread: Thread finished: Create>>Save and change the Problem investigation status to cancel 4-1
+2018-06-16 23:07:19,694 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-06-16 23:07:19,694 INFO o.a.j.s.FileServer: Close: C:\Users\E760519\Downloads\apache-jmeter-3.3\apache-jmeter-3.3\bin\credentials.txt
+2018-06-16 23:07:19,694 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)

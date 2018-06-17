@@ -1,0 +1,120 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1528811247861,20175,Open URL,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-3,,true,,2435867,13552,7,7,0,42,0
+1528811245839,22126,Open URL,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-1,,true,,2435867,13552,7,7,0,122,0
+1528811248865,20332,Open URL,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-4,,true,,2435867,13552,7,7,0,29,0
+1528811246835,22792,Open URL,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-2,,true,,2435867,13552,7,7,0,26,0
+1528811249874,19761,Open URL,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-5,,true,,2435867,13552,7,7,0,40,0
+1528811250868,20223,Open URL,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-6,,true,,2435867,13552,7,7,0,29,0
+1528811251869,19728,Open URL,200,"Number of samples in transaction : 28, number of failing samples : 0",Thread Group 1-7,,true,,2435867,13552,7,7,0,41,0
+1528811268088,21041,Login,200,"Number of samples in transaction : 47, number of failing samples : 0",Thread Group 1-3,,true,,250302,24582,7,7,0,55,0
+1528811268090,22019,Login,200,"Number of samples in transaction : 47, number of failing samples : 0",Thread Group 1-1,,true,,250305,24582,7,7,0,42,0
+1528811269234,21574,Login,200,"Number of samples in transaction : 47, number of failing samples : 0",Thread Group 1-4,,true,,250302,24582,7,7,0,35,0
+1528811269683,21433,Login,200,"Number of samples in transaction : 47, number of failing samples : 0",Thread Group 1-5,,true,,250301,24582,7,7,0,36,0
+1528811269661,21458,Login,200,"Number of samples in transaction : 47, number of failing samples : 0",Thread Group 1-2,,true,,250300,24582,7,7,0,47,0
+1528811271151,20919,Login,200,"Number of samples in transaction : 47, number of failing samples : 0",Thread Group 1-6,,true,,250306,24582,7,7,0,44,0
+1528811289156,3649,Search Incident by global search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-3,,true,,4427,2645,7,7,0,17,0
+1528811271669,21377,Login,200,"Number of samples in transaction : 47, number of failing samples : 0",Thread Group 1-7,,true,,250301,24582,7,7,0,36,0
+1528811292853,280,113 /ux/rest/attachment/info/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-3,text,true,,427,442,7,7,280,0,0
+1528811293134,329,116 /ux/rest/chat/credentials,200,OK,Thread Group 1-3,text,true,,457,403,7,7,329,0,0
+1528811293464,421,112 /ux/rest/v2/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-3,text,true,,1699,429,7,7,421,0,0
+1528811293885,413,115 /ux/rest/relations/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-3,text,true,,381,436,7,7,413,0,0
+1528811290123,4212,Search Incident by global search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,4419,2645,7,7,0,4,0
+1528811294369,270,113 /ux/rest/attachment/info/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-1,text,true,,427,442,7,7,270,0,0
+1528811290815,3827,Search Incident by global search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-4,,true,,4420,2645,7,7,0,3,0
+1528811294299,537,117 /ux/rest/timeline/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-3,text,true,,855,444,7,7,531,0,253
+1528811294640,277,116 /ux/rest/chat/credentials,200,OK,Thread Group 1-1,text,true,,457,403,7,7,277,0,0
+1528811294675,274,113 /ux/rest/attachment/info/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-4,text,true,,427,442,7,7,273,0,0
+1528811294949,280,116 /ux/rest/chat/credentials,200,OK,Thread Group 1-4,text,true,,457,403,7,7,280,0,0
+1528811294918,333,112 /ux/rest/v2/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-1,text,true,,1681,429,7,7,333,0,0
+1528811291167,4081,Search Incident by global search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-2,,true,,4421,2645,7,7,0,4,0
+1528811291153,4131,Search Incident by global search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-5,,true,,4420,2645,7,7,0,3,0
+1528811295252,286,113 /ux/rest/attachment/info/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-2,text,true,,427,442,7,7,286,0,0
+1528811294837,705,114 /ux/rest/v2/metadata,200,OK,Thread Group 1-3,text,true,,28430,508,7,7,449,0,0
+1528811295230,346,112 /ux/rest/v2/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-4,text,true,,1683,429,7,7,346,0,0
+1528811292115,3459,Search Incident by global search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-6,,true,,4408,2645,7,7,0,5,0
+1528811295288,294,113 /ux/rest/attachment/info/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-5,text,true,,427,442,7,7,294,0,0
+1528811295543,263,121 /ux/rest/action/search,200,OK,Thread Group 1-3,text,true,,486,422,7,7,263,0,0
+1528811295538,282,116 /ux/rest/chat/credentials,200,OK,Thread Group 1-2,text,true,,457,403,7,7,282,0,0
+1528811295252,606,115 /ux/rest/relations/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-1,text,true,,381,436,7,7,606,0,260
+1528811295587,369,116 /ux/rest/chat/credentials,200,OK,Thread Group 1-5,text,true,,457,403,7,7,369,0,0
+1528811295580,379,113 /ux/rest/attachment/info/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-6,text,true,,427,442,7,7,379,0,0
+1528811295859,299,117 /ux/rest/timeline/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-1,text,true,,309,444,7,7,299,0,0
+1528811295807,351,122 /ux/rest/outage/search,200,OK,Thread Group 1-3,text,true,,437,456,7,7,351,0,0
+1528811295821,381,112 /ux/rest/v2/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-2,text,true,,1682,429,7,7,381,0,0
+1528811295961,278,116 /ux/rest/chat/credentials,200,OK,Thread Group 1-6,text,true,,457,403,7,7,278,0,0
+1528811295577,724,115 /ux/rest/relations/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-4,text,true,,381,436,7,7,724,0,359
+1528811295958,366,112 /ux/rest/v2/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-5,text,true,,1682,429,7,7,366,0,0
+1528811293084,3281,Search Incident by global search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-7,,true,,4417,2645,7,7,0,2,0
+1528811296240,334,112 /ux/rest/v2/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-6,text,true,,1680,429,7,7,334,0,0
+1528811296303,281,117 /ux/rest/timeline/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-4,text,true,,309,444,7,7,281,0,0
+1528811296160,443,119 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-3,text,true,,1503,891,7,7,442,0,0
+1528811296369,303,113 /ux/rest/attachment/info/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-7,text,true,,427,442,7,7,303,0,0
+1528811296203,607,115 /ux/rest/relations/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-2,text,true,,381,436,7,7,607,0,253
+1528811296160,689,114 /ux/rest/v2/metadata,200,OK,Thread Group 1-1,text,true,,28430,508,7,7,441,0,0
+1528811296672,360,116 /ux/rest/chat/credentials,200,OK,Thread Group 1-7,text,true,,457,403,7,7,360,0,0
+1528811296850,2693,121 /ux/rest/action/search,200,OK,Thread Group 1-1,text,true,,486,422,7,7,2693,0,0
+1528811296810,2735,117 /ux/rest/timeline/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-2,text,true,,309,444,7,7,2735,0,0
+1528811296325,3366,115 /ux/rest/relations/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-5,text,true,,381,436,7,7,3366,0,261
+1528811296575,3116,115 /ux/rest/relations/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-6,text,true,,381,436,7,7,3116,0,0
+1528811297033,2663,112 /ux/rest/v2/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-7,text,true,,1680,429,7,7,2663,0,0
+1528811299544,555,122 /ux/rest/outage/search,200,OK,Thread Group 1-1,text,true,,437,456,7,7,555,0,264
+1528811296585,3538,114 /ux/rest/v2/metadata,200,OK,Thread Group 1-4,text,true,,28430,508,7,7,3273,0,0
+1528811299692,516,117 /ux/rest/timeline/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-5,text,true,,309,444,7,7,516,0,252
+1528811299694,514,117 /ux/rest/timeline/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-6,text,true,,309,444,7,7,514,0,251
+1528811299697,623,115 /ux/rest/relations/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-7,text,true,,381,436,7,7,623,0,254
+1528811296603,3738,120 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-3,text,true,,1637,890,7,7,3738,0,260
+1528811292852,7480,Transaction Controller,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-3,,true,,36312,5321,7,7,7217,9,513
+1528811299549,931,114 /ux/rest/v2/metadata,200,OK,Thread Group 1-2,text,true,,28430,508,7,7,677,0,259
+1528811300101,398,119 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-1,text,true,,1502,891,7,7,398,0,0
+1528811300321,266,117 /ux/rest/timeline/incident/IDGAA5V0GQGIBAP0GDT2PJJ2JSUNNX,200,OK,Thread Group 1-7,text,true,,309,444,7,7,266,0,0
+1528811300124,521,121 /ux/rest/action/search,200,OK,Thread Group 1-4,text,true,,486,422,7,7,521,0,251
+1528811300481,251,121 /ux/rest/action/search,200,OK,Thread Group 1-2,text,true,,486,422,7,7,251,0,0
+1528811300208,702,114 /ux/rest/v2/metadata,200,OK,Thread Group 1-5,text,true,,28429,508,7,7,434,0,0
+1528811300208,707,114 /ux/rest/v2/metadata,200,OK,Thread Group 1-6,text,true,,28429,508,7,7,436,0,0
+1528811300646,277,122 /ux/rest/outage/search,200,OK,Thread Group 1-4,text,true,,437,456,7,7,277,0,0
+1528811300733,290,122 /ux/rest/outage/search,200,OK,Thread Group 1-2,text,true,,437,456,7,7,290,0,0
+1528811300911,254,121 /ux/rest/action/search,200,OK,Thread Group 1-5,text,true,,486,422,7,7,254,0,0
+1528811300917,250,121 /ux/rest/action/search,200,OK,Thread Group 1-6,text,true,,486,422,7,7,250,0,0
+1528811300588,699,114 /ux/rest/v2/metadata,200,OK,Thread Group 1-7,text,true,,28429,508,7,7,422,0,0
+1528811300925,415,119 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-4,text,true,,1503,891,7,7,415,0,0
+1528811301025,408,119 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-2,text,true,,1503,891,7,7,408,0,0
+1528811301167,279,122 /ux/rest/outage/search,200,OK,Thread Group 1-6,text,true,,437,456,7,7,279,0,0
+1528811301169,279,122 /ux/rest/outage/search,200,OK,Thread Group 1-5,text,true,,437,456,7,7,279,0,0
+1528811300500,985,120 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-1,text,true,,1637,890,7,7,985,0,0
+1528811294369,7105,Transaction Controller,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-1,,true,,35747,5321,7,7,6857,10,524
+1528811301288,260,121 /ux/rest/action/search,200,OK,Thread Group 1-7,text,true,,486,422,7,7,260,0,0
+1528811301548,363,122 /ux/rest/outage/search,200,OK,Thread Group 1-7,text,true,,437,456,7,7,363,0,0
+1528811301446,529,119 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-6,text,true,,1503,891,7,7,529,0,0
+1528811301449,526,119 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-5,text,true,,1503,891,7,7,526,0,0
+1528811301340,1110,120 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-4,text,true,,1638,890,7,7,1109,0,0
+1528811294674,7766,Transaction Controller,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-4,,true,,35751,5321,7,7,7499,8,610
+1528811301434,1077,120 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-2,text,true,,1637,890,7,7,1077,0,0
+1528811295252,7248,Transaction Controller,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-2,,true,,35749,5321,7,7,6994,10,512
+1528811301911,664,119 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-7,text,true,,1503,891,7,7,663,0,253
+1528811301975,1338,120 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-6,text,true,,1637,890,7,7,1337,0,252
+1528811295580,7724,Transaction Controller,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-6,,true,,35746,5321,7,7,7452,7,503
+1528811301975,1348,120 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-5,text,true,,1637,890,7,7,1348,0,255
+1528811295287,8020,Transaction Controller,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-5,,true,,35748,5321,7,7,7752,15,768
+1528811302575,1094,120 /ux/rest/globalsearch?chunk_size=15&need_totalcount=false,200,OK,Thread Group 1-7,text,true,,1637,890,7,7,1094,0,0
+1528811296369,7295,Transaction Controller,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-7,,true,,35746,5321,7,7,7017,5,507
+1528811300342,4893,Click on details,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-3,,true,,36309,5321,7,7,0,8,0
+1528811301487,4895,Click on details,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-1,,true,,35745,5321,7,7,0,6,0
+1528811305244,1834,change Status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,3602,1520,7,7,0,3,0
+1528811302450,5048,Click on details,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-4,,true,,35748,5321,7,7,0,8,0
+1528811302512,5014,Click on details,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-2,,true,,35751,5321,7,7,0,6,0
+1528811303324,4890,Click on details,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-5,,true,,35749,5321,7,7,0,4,0
+1528811303313,4902,Click on details,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-6,,true,,35746,5321,7,7,0,6,0
+1528811306388,1933,change Status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,3026,1520,7,7,0,4,0
+1528811303670,4825,Click on details,200,"Number of samples in transaction : 10, number of failing samples : 0",Thread Group 1-7,,true,,35747,5321,7,7,0,3,0
+1528811307532,2090,change Status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,3030,1520,7,7,0,3,0
+1528811307506,2116,change Status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,3028,1520,7,7,0,3,0
+1528811308221,1932,change Status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,3027,1520,7,7,0,1,0
+1528811308218,1958,change Status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,3031,1520,7,7,0,2,0
+1528811308498,1880,change Status,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,3023,1520,7,7,0,1,0
+1528811307081,4398,Logout,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,1168061,3446,7,7,0,3,0
+1528811310178,5129,Logout,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-5,,true,,1168061,3446,6,6,0,2,0
+1528811308325,7122,Logout,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,1168061,3446,5,5,0,6,0
+1528811309626,7518,Logout,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-4,,true,,1168061,3446,4,4,0,3,0
+1528811309625,7534,Logout,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-2,,true,,1168061,3446,3,3,0,3,0
+1528811310379,7711,Logout,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-7,,true,,1168061,3446,2,2,0,6,0
+1528811310154,10753,Logout,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-6,,true,,1168061,3446,1,1,0,2,0

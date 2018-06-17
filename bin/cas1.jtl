@@ -1,0 +1,36 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1528735424142,1409,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-1,,true,,2270,1599,3,3,0,83,0
+1528735424871,1277,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-2,,true,,2270,1599,3,3,0,12,0
+1528735425570,1309,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-3,,true,,2270,1599,4,4,0,8,0
+1528735426283,1284,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-4,,true,,2270,1599,5,5,0,8,0
+1528735427003,1272,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-5,,true,,2270,1599,6,6,0,9,0
+1528735427711,1269,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-6,,true,,2270,1599,7,7,0,4,0
+1528735428423,1273,Open URL,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-7,,true,,2270,1599,7,7,0,5,0
+1528735425636,12258,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-1,,true,,150333,11933,7,7,0,57,0
+1528735428985,9051,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-6,,true,,154266,11941,7,7,0,27,0
+1528735429702,8948,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-7,,true,,150942,11941,7,7,0,21,0
+1528735426887,12267,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-3,,true,,145831,11933,7,7,0,22,0
+1528735438063,1377,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-6,,true,,4280,1718,7,7,0,4,0
+1528735438671,1368,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-7,,true,,4277,1718,7,7,0,6,0
+1528735426161,13960,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-2,,true,,143933,11933,7,7,0,25,0
+1528735437952,2513,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-1,,true,,4276,1718,7,7,0,10,0
+1528735427576,13073,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-4,,true,,142652,11933,7,7,0,22,0
+1528735439177,2512,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-3,,true,,4278,1718,7,7,0,6,0
+1528735440147,2576,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-2,,true,,4278,1718,7,7,0,3,0
+1528735428284,14910,Login,200,"Number of samples in transaction : 22, number of failing samples : 0",Create and save ticket 1-5,,true,,143149,11933,7,7,0,36,0
+1528735440673,2621,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-4,,true,,4278,1718,7,7,0,3,0
+1528735443231,2204,Navigate incident,200,"Number of samples in transaction : 4, number of failing samples : 0",Create and save ticket 1-5,,true,,4275,1718,7,7,0,5,0
+1528735439444,7519,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-6,,true,,34911,10324,7,7,0,19,0
+1528735440045,7073,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-7,,true,,34909,10324,7,7,0,12,0
+1528735440475,8049,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-1,,true,,35038,10324,7,7,0,18,0
+1528735446983,1575,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-6,,true,,2458,2207,7,7,0,5,0
+1528735447132,1568,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-7,,true,,2458,2207,6,6,0,4,0
+1528735441696,7843,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-3,,true,,35040,10324,5,5,0,15,0
+1528735448543,1557,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-1,,true,,2458,2207,5,5,0,8,0
+1528735442726,7951,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-2,,true,,35037,10324,4,4,0,10,0
+1528735449555,1556,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-3,,true,,2458,2207,4,4,0,4,0
+1528735443297,7868,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-4,,true,,35039,10324,3,3,0,14,0
+1528735450689,1555,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-2,,true,,2458,2207,3,3,0,4,0
+1528735451182,1556,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-4,,true,,2458,2207,2,2,0,4,0
+1528735445442,7900,save ticket,200,"Number of samples in transaction : 17, number of failing samples : 0",Create and save ticket 1-5,,true,,35039,10324,1,1,0,13,0
+1528735453355,1555,logout,200,"Number of samples in transaction : 5, number of failing samples : 0",Create and save ticket 1-5,,true,,2458,2207,1,1,0,6,0

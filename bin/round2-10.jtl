@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1529398088012,2704,Open URL-Create CR,200,"Number of samples in transaction : 6, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-1,,true,,2910,2294,2,2,0,67,0
+1529398090032,2211,Open URL-Create CR,200,"Number of samples in transaction : 6, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-2,,true,,2910,2294,2,2,0,20,0
+1529398090785,13593,Login-Create CR,200,"Number of samples in transaction : 22, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-1,,true,,143204,13002,2,2,0,40,0
+1529398092263,14368,Login-Create CR,200,"Number of samples in transaction : 22, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-2,,true,,142441,13002,2,2,0,39,0
+1529398104425,2764,Navigate to create new -- > click on change request,200,"Number of samples in transaction : 4, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-1,,true,,12276,1722,2,2,0,4,0
+1529398106677,2682,Navigate to create new -- > click on change request,200,"Number of samples in transaction : 4, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-2,,true,,12277,1722,2,2,0,6,0
+1529398107193,7004,Select from scratch and type of scenario - create CR,200,"Number of samples in transaction : 12, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-1,,true,,48093,5733,2,2,0,4037,0
+1529398109366,6946,Select from scratch and type of scenario - create CR,200,"Number of samples in transaction : 12, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-2,,true,,48094,5733,2,2,0,4023,0
+1529398120337,25173,Fill the required fields and hit save- Create CR,200,"Number of samples in transaction : 14, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-2,,true,,90711,125643,2,2,0,15,0
+1529398145525,1712,Logout - create CR,200,"Number of samples in transaction : 5, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-2,,true,,2458,2207,2,2,0,5,0
+1529398118236,29492,Fill the required fields and hit save- Create CR,200,"Number of samples in transaction : 14, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-1,,true,,90681,125643,2,2,0,15,0
+1529398147742,1742,Logout - create CR,200,"Number of samples in transaction : 5, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-1,,true,,2458,2207,2,2,0,12,0
+1529398147242,2294,Open URL - cancel CR,200,"Number of samples in transaction : 5, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-2,,true,,2448,2100,2,2,0,8,0
+1529398149499,1932,Open URL - cancel CR,200,"Number of samples in transaction : 5, number of failing samples : 0",Create>>Save and change the CR status to cancel 1-1,,true,,2448,2100,2,2,0,6,0
